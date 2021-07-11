@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:kaizzzoku/youtube-search-server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:kaizzzoku/youtube-search-client.git
