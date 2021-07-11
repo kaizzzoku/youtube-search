@@ -1,7 +1,10 @@
 <template>
-  <Tutorial/>
+  <VideoSearch/>
 </template>
 
 <script>
-export default {}
+import VideoSearch from "../components/VideoSearch";
+export default {
+  components: {VideoSearch}
+}
 </script>
